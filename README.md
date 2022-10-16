@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Muhammad Ihab</h1>
 <h4 align="center">Interested in Backend Development</h4>
 
-🌱 I’m currently learning **Java and OOP**
+🌱 I’m currently learning **Java and Spring**
 <br>
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/muhammadihabk/)
